@@ -1,2 +1,3 @@
-resource="aws_iam_group" "jaslin"
-name = s3-access
+resource "aws_iam_group" "jas"{
+name = "s3-access"
+}
